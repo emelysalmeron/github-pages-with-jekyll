@@ -2,6 +2,6 @@ El Salvador its a country that is situated in Central America between 13° and 1
 Population: 6.421 million (2018) World Bank
 
 ---
-title: "YEl Salvador Its Amazing"
+title: "El Salvador Its Amazing"
 date: 2020-09-25
 ---
